@@ -227,7 +227,7 @@ export default function Project() {
     {
       name: "Crypto App",
       demoLink: "https://github.com/leodk293/coinVista",
-      codeLink: "",
+      codeLink: "https://coins-vista.netlify.app",
     },
   ];
 
