@@ -23,7 +23,7 @@ export default function Hero() {
 
    const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/public/RESUME-SOFTWARE-ENGINEER.pdf";
+    link.href = "/RESUME-SOFTWARE-ENGINEER.pdf";
     link.download = "RESUME-SOFTWARE-ENGINEER.pdf";
     document.body.appendChild(link);
     link.click();
