@@ -23,8 +23,8 @@ export default function Hero() {
 
    const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/Traore-Aboubacar-2026.pdf";
-    link.download = "Traore_Aboubacar.pdf";
+    link.href = "/public/RESUME-SOFTWARE-ENGINEER.pdf";
+    link.download = "RESUME-SOFTWARE-ENGINEER.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

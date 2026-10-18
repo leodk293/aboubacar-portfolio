@@ -377,7 +377,7 @@ export default function Contact() {
                         href="mailto:aboubatraore04@gmail.com"
                         className="text-white font-medium hover:text-blue-400 transition-colors duration-300 break-all"
                       >
-                        aboubatraore04@gmail.com
+                        aboubatrao04@gmail.com
                       </a>
                     </div>
                   </div>
